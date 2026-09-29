@@ -1,6 +1,7 @@
 ---
 name: Spike
 about: Investigación con tiempo acotado que responde una pregunta
+type: Spike
 ---
 
 <!--
