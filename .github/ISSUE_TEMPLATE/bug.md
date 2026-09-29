@@ -5,8 +5,9 @@ type: Bug
 ---
 
 <!--
-Todo el cuerpo lo escribe una persona. Las secciones marcadas (obligatoria) no
-pueden quedar vacías: sin ellas, el agente no arranca. Borrá las opcionales que
+Un agente puede escribir el cuerpo, pero una persona lo valida y es responsable
+de que esté completo y claro. Las secciones marcadas (obligatoria) no pueden
+quedar vacías: sin ellas, el agente no arranca. Borrá las opcionales que
 no apliquen. Los comentarios como este no cuentan como contenido.
 -->
 
